@@ -33,8 +33,8 @@
 
 1. **克隆项目**
 ```bash
-git clone https://github.com/your-repo/lottery-prediction.git
-cd lottery-prediction
+git clone https://github.com/MarkPlayCS/-SSQDLT-.git
+cd -SSQDLT-
 ```
 
 2. **安装依赖**
@@ -195,8 +195,8 @@ python scripts/crawl_all_data.py
 
 ## 📞 联系方式
 
-- 项目地址: [GitHub Repository](https://github.com/your-repo/lottery-prediction)
-- 问题反馈: [Issues](https://github.com/your-repo/lottery-prediction/issues)
+- 项目地址: [GitHub Repository](https://github.com/MarkPlayCS/-SSQDLT-)
+- 问题反馈: [Issues](https://github.com/MarkPlayCS/-SSQDLT-/issues)
 - 邮箱: your-email@example.com
 
 ---
